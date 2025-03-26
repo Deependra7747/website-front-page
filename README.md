@@ -13,10 +13,15 @@ This is a simple personal webpage hosted using GitHub Pages.
 ## How to Use
 1. Clone this repository:
 git clone git clone https://github.com/Deependra7747/website-front-page
-2. Open `index.html` in your browser.
+2. Open `website.html` in your browser.
 
 ## Contributing
 Feel free to fork this repository and improve it. Pull requests are welcome! 😊
 
 ## License
 This project is open-source and free to use.
+📩 Contact Me
+Email: kumardeependra378@gmail.com
+
+LinkedIn:https://www.linkedin.com/in/deependra-kumar-955a13295/
+
